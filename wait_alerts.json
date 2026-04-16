@@ -1,5 +1,32 @@
 {
-  "entries": [],
-  "lastUpdated": "2026-04-16T08:37:20.850112",
+  "entries": [
+    {
+      "scrapeTime": "2026-04-16T08:58:30.429803",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-04-16",
+      "locationName": "Piedmont UC \u2014 Fairburn",
+      "address": "8028 Senoia Rd Fairburn, GA",
+      "area": "Fairburn",
+      "nextAvailableTime": "9:52 AM",
+      "nextAvailableRaw": "09:52:00",
+      "minutesOut": 53,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-04-16T08:58:30.429803",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-04-16",
+      "locationName": "Piedmont UC \u2014 Conyers",
+      "address": "1280 Dogwood Dr SE Conyers, GA",
+      "area": "Conyers",
+      "nextAvailableTime": "10:22 AM",
+      "nextAvailableRaw": "10:22:00",
+      "minutesOut": 83,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    }
+  ],
+  "lastUpdated": "2026-04-16T08:58:30.429803",
   "threshold_minutes": 50
 }
