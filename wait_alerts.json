@@ -25,8 +25,21 @@
       "minutesOut": 83,
       "hoursOut": 1.4,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-04-16T09:43:15.023664",
+      "scrapeTimeDisplay": "9:43 AM",
+      "scrapeDate": "2026-04-16",
+      "locationName": "Piedmont UC \u2014 Conyers",
+      "address": "1280 Dogwood Dr SE Conyers, GA",
+      "area": "Conyers",
+      "nextAvailableTime": "11:15 AM",
+      "nextAvailableRaw": "11:15:00",
+      "minutesOut": 92,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-04-16T08:58:30.429803",
+  "lastUpdated": "2026-04-16T09:43:15.023664",
   "threshold_minutes": 50
 }
