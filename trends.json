@@ -3832,8 +3832,965 @@
         "ucWithAvailability": 148,
         "pcpWithAvailability": 12
       }
+    },
+    {
+      "date": "2026-04-19",
+      "timestamp": "2026-04-19T13:31:44.056444",
+      "market": "GA",
+      "perCenter": [
+        {
+          "ucId": "uc-0624",
+          "ucName": "Piedmont UC \u2014 McDonough - E Lake Rd",
+          "ucArea": "MCDONOUGH",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 3,
+          "pcpSlots10mi": 6,
+          "pcpCount5mi": 3,
+          "pcpCount10mi": 6
+        },
+        {
+          "ucId": "uc-0617",
+          "ucName": "Piedmont UC \u2014 Perry",
+          "ucArea": "PERRY",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0616",
+          "ucName": "Piedmont UC \u2014 Lovejoy",
+          "ucArea": "LOVEJOY",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 1,
+          "pcpSlots10mi": 5,
+          "pcpCount5mi": 1,
+          "pcpCount10mi": 5
+        },
+        {
+          "ucId": "uc-0613",
+          "ucName": "Piedmont UC \u2014 Eastman",
+          "ucArea": "EASTMAN",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0612",
+          "ucName": "Piedmont UC \u2014 Dublin",
+          "ucArea": "DUBLIN",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0611",
+          "ucName": "Piedmont UC \u2014 Milledgeville",
+          "ucArea": "MILLEDGEVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0610",
+          "ucName": "Piedmont UC \u2014 Macon SW",
+          "ucArea": "MACON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0609",
+          "ucName": "Piedmont UC \u2014 Newnan Crossing",
+          "ucArea": "NEWNAN",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0608",
+          "ucName": "Piedmont UC \u2014 Carrollton",
+          "ucArea": "CARROLLTON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0607",
+          "ucName": "Piedmont UC \u2014 Lagrange",
+          "ucArea": "LAGRANGE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0606",
+          "ucName": "Piedmont UC \u2014 Peachtree City",
+          "ucArea": "PEACHTREE CITY",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0605",
+          "ucName": "Piedmont UC \u2014 East Cobb",
+          "ucArea": "MARIETTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0604",
+          "ucName": "Piedmont UC \u2014 Fayetteville",
+          "ucArea": "FAYETTEVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0602",
+          "ucName": "Piedmont UC \u2014 East Point",
+          "ucArea": "EAST POINT",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0601",
+          "ucName": "Piedmont UC \u2014 Newnan",
+          "ucArea": "NEWNAN",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0194",
+          "ucName": "Piedmont UC \u2014 Locust Grove",
+          "ucArea": "LOCUST GROVE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 1,
+          "pcpSlots10mi": 5,
+          "pcpCount5mi": 1,
+          "pcpCount10mi": 5
+        },
+        {
+          "ucId": "uc-0193",
+          "ucName": "Piedmont UC \u2014 Cascade",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0192",
+          "ucName": "Piedmont UC \u2014 Vinings",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0191",
+          "ucName": "Piedmont UC \u2014 Hiram",
+          "ucArea": "HIRAM",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0190",
+          "ucName": "Piedmont UC \u2014 Brookhaven",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0189",
+          "ucName": "Piedmont UC \u2014 Dacula - Harbins Rd",
+          "ucArea": "DACULA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0188",
+          "ucName": "Piedmont UC \u2014 Braselton",
+          "ucArea": "BRASELTON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0187",
+          "ucName": "Piedmont UC \u2014 Newnan Arbor Springs",
+          "ucArea": "NEWNAN",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0184",
+          "ucName": "Piedmont UC \u2014 Monroe",
+          "ucArea": "MONROE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0183",
+          "ucName": "Piedmont UC \u2014 Commerce",
+          "ucArea": "COMMERCE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0182",
+          "ucName": "Piedmont UC \u2014 Cumming - Tribble Rd",
+          "ucArea": "CUMMING",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0181",
+          "ucName": "Piedmont UC \u2014 McDonough - Jonesboro Rd",
+          "ucArea": "MCDONOUGH",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 3,
+          "pcpSlots10mi": 6,
+          "pcpCount5mi": 3,
+          "pcpCount10mi": 6
+        },
+        {
+          "ucId": "uc-0180",
+          "ucName": "Piedmont UC \u2014 Lawrenceville Old Peachtree",
+          "ucArea": "LAWRENCEVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0179",
+          "ucName": "Piedmont UC \u2014 Roswell - Crabapple Road",
+          "ucArea": "ROSWELL",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0178",
+          "ucName": "Piedmont UC \u2014 Hapeville",
+          "ucArea": "HAPEVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0177",
+          "ucName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+          "ucArea": "COLUMBUS",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0176",
+          "ucName": "Piedmont UC \u2014 Acworth",
+          "ucArea": "ACWORTH",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0175",
+          "ucName": "Piedmont UC \u2014 Decatur",
+          "ucArea": "DECATUR",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0174",
+          "ucName": "Piedmont UC \u2014 Kennesaw - Bells Ferry",
+          "ucArea": "KENNESAW",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0173",
+          "ucName": "Piedmont UC \u2014 Macon Zebulon",
+          "ucArea": "MACON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0171",
+          "ucName": "Piedmont UC \u2014 Summerhill",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0170",
+          "ucName": "Piedmont UC \u2014 Uptown Columbus",
+          "ucArea": "COLUMBUS",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0169",
+          "ucName": "Piedmont UC \u2014 Blackmon Rd Columbus",
+          "ucArea": "COLUMBUS",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0168",
+          "ucName": "Piedmont UC \u2014 Bethlehem",
+          "ucArea": "BETHLEHEM",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0167",
+          "ucName": "Piedmont UC \u2014 Athens",
+          "ucArea": "ATHENS",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0166",
+          "ucName": "Piedmont UC \u2014 Watkinsville",
+          "ucArea": "WATKINSVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0165",
+          "ucName": "Piedmont UC \u2014 Oconee Health",
+          "ucArea": "WATKINSVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0164",
+          "ucName": "Piedmont UC \u2014 Jefferson",
+          "ucArea": "JEFFERSON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0160",
+          "ucName": "Piedmont UC \u2014 Buford",
+          "ucArea": "BUFORD",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0159",
+          "ucName": "Piedmont UC \u2014 Fayetteville North",
+          "ucArea": "FAYETTEVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0158",
+          "ucName": "Piedmont UC \u2014 Cartersville West Ave",
+          "ucArea": "CARTERSVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0157",
+          "ucName": "Piedmont UC \u2014 Cartersville Main St",
+          "ucArea": "CARTERSVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0156",
+          "ucName": "Piedmont UC \u2014 Rome East",
+          "ucArea": "ROME",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0155",
+          "ucName": "Piedmont UC \u2014 Rome West",
+          "ucArea": "ROME",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0154",
+          "ucName": "Piedmont UC \u2014 Lithonia",
+          "ucArea": "LITHONIA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 1,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0153",
+          "ucName": "Piedmont UC \u2014 Loganville Hwy 81",
+          "ucArea": "LOGANVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0152",
+          "ucName": "Piedmont UC \u2014 Grayson",
+          "ucArea": "GRAYSON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0151",
+          "ucName": "Piedmont UC \u2014 Lilburn",
+          "ucArea": "LILBURN",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0150",
+          "ucName": "Piedmont UC \u2014 Snellville - Centerville",
+          "ucArea": "SNELLVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0149",
+          "ucName": "Piedmont UC \u2014 Lawrenceville",
+          "ucArea": "LAWRENCEVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0148",
+          "ucName": "Piedmont UC \u2014 Macon Ingleside",
+          "ucArea": "MACON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0147",
+          "ucName": "Piedmont UC \u2014 Ellenwood",
+          "ucArea": "ELLENWOOD",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 1,
+          "pcpCount5mi": 1,
+          "pcpCount10mi": 2
+        },
+        {
+          "ucId": "uc-0136",
+          "ucName": "Piedmont UC \u2014 Canton",
+          "ucArea": "CANTON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 1,
+          "pcpSlots10mi": 1,
+          "pcpCount5mi": 1,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0135",
+          "ucName": "Piedmont UC \u2014 Chamblee",
+          "ucArea": "CHAMBLEE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0134",
+          "ucName": "Piedmont UC \u2014 Suwanee",
+          "ucArea": "SUWANEE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 1,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0133",
+          "ucName": "Piedmont UC \u2014 Cumming",
+          "ucArea": "CUMMING",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0132",
+          "ucName": "Piedmont UC \u2014 Hickory Flat",
+          "ucArea": "WOODSTOCK",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 1,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0131",
+          "ucName": "Piedmont UC \u2014 Senoia",
+          "ucArea": "SENOIA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0130",
+          "ucName": "Piedmont UC \u2014 Tucker",
+          "ucArea": "TUCKER",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0129",
+          "ucName": "Piedmont UC \u2014 Dallas",
+          "ucArea": "DALLAS",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0126",
+          "ucName": "Piedmont UC \u2014 Duluth - Pleasant Hill",
+          "ucArea": "DULUTH",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0125",
+          "ucName": "Piedmont UC \u2014 Douglasville",
+          "ucArea": "DOUGLASVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0124",
+          "ucName": "Piedmont UC \u2014 West Cobb",
+          "ucArea": "MARIETTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0123",
+          "ucName": "Piedmont UC \u2014 Woodstock",
+          "ucArea": "WOODSTOCK",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 1,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0122",
+          "ucName": "Piedmont UC \u2014 Marietta",
+          "ucArea": "MARIETTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0121",
+          "ucName": "Piedmont UC \u2014 Fairburn",
+          "ucArea": "FAIRBURN",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0120",
+          "ucName": "Piedmont UC \u2014 Conyers",
+          "ucArea": "CONYERS",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 1,
+          "pcpSlots10mi": 1,
+          "pcpCount5mi": 1,
+          "pcpCount10mi": 1
+        },
+        {
+          "ucId": "uc-0119",
+          "ucName": "Piedmont UC \u2014 Smyrna",
+          "ucArea": "SMYRNA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0118",
+          "ucName": "Piedmont UC \u2014 Covington",
+          "ucArea": "COVINGTON",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0117",
+          "ucName": "Piedmont UC \u2014 Peachtree Corners",
+          "ucArea": "PEACHTREE CORNERS",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0116",
+          "ucName": "Piedmont UC \u2014 Loganville",
+          "ucArea": "LOGANVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0115",
+          "ucName": "Piedmont UC \u2014 Snellville - Scenic Hwy",
+          "ucArea": "SNELLVILLE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0114",
+          "ucName": "Piedmont UC \u2014 Stockbridge",
+          "ucArea": "STOCKBRIDGE",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 1,
+          "pcpSlots10mi": 4,
+          "pcpCount5mi": 1,
+          "pcpCount10mi": 5
+        },
+        {
+          "ucId": "uc-0113",
+          "ucName": "Piedmont UC \u2014 Milton / Alpharetta",
+          "ucArea": "ALPHARETTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0112",
+          "ucName": "Piedmont UC \u2014 East Roswell",
+          "ucArea": "ALPHARETTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0111",
+          "ucName": "Piedmont UC \u2014 Clairmont",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0110",
+          "ucName": "Piedmont UC \u2014 McDonough - Regency Park",
+          "ucArea": "MCDONOUGH",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 3,
+          "pcpSlots10mi": 6,
+          "pcpCount5mi": 3,
+          "pcpCount10mi": 6
+        },
+        {
+          "ucId": "uc-0109",
+          "ucName": "Piedmont UC \u2014 Virginia Highland",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0107",
+          "ucName": "Piedmont UC \u2014 Buckhead North",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0106",
+          "ucName": "Piedmont UC \u2014 Johns Creek / Alpharetta",
+          "ucArea": "ALPHARETTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0105",
+          "ucName": "Piedmont UC \u2014 Sandy Springs",
+          "ucArea": "SANDY SPRINGS",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0104",
+          "ucName": "Piedmont UC \u2014 Austell",
+          "ucArea": "AUSTELL",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0103",
+          "ucName": "Piedmont UC \u2014 Dunwoody",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        },
+        {
+          "ucId": "uc-0101",
+          "ucName": "Piedmont UC \u2014 Buckhead South",
+          "ucArea": "ATLANTA",
+          "ucSystem": "Piedmont Healthcare",
+          "pcpSlots5mi": 0,
+          "pcpSlots10mi": 0,
+          "pcpCount5mi": 0,
+          "pcpCount10mi": 0
+        }
+      ],
+      "bySystem": {
+        "Piedmont Healthcare": {
+          "sameDaySlots": 445,
+          "nextDaySlots": 0,
+          "locationCount": 89,
+          "ucSlots": 445,
+          "pcpSlots": 0,
+          "locType": "UC"
+        },
+        "Aylo Health": {
+          "sameDaySlots": 9,
+          "nextDaySlots": 1,
+          "locationCount": 16,
+          "ucSlots": 0,
+          "pcpSlots": 9,
+          "locType": "PCP"
+        },
+        "Piedmont Primary Care": {
+          "sameDaySlots": 0,
+          "nextDaySlots": 164,
+          "locationCount": 89,
+          "ucSlots": 0,
+          "pcpSlots": 0,
+          "locType": "PCP"
+        },
+        "Northside Hospital": {
+          "sameDaySlots": 0,
+          "nextDaySlots": 317,
+          "locationCount": 51,
+          "ucSlots": 0,
+          "pcpSlots": 0,
+          "locType": "PCP"
+        },
+        "Peachtree Immediate Care": {
+          "sameDaySlots": 405,
+          "nextDaySlots": 0,
+          "locationCount": 81,
+          "ucSlots": 405,
+          "pcpSlots": 0,
+          "locType": "UC"
+        },
+        "WellStar Urgent Care": {
+          "sameDaySlots": 45,
+          "nextDaySlots": 0,
+          "locationCount": 9,
+          "ucSlots": 45,
+          "pcpSlots": 0,
+          "locType": "UC"
+        }
+      },
+      "marketTotals": {
+        "totalUCSameDay": 895,
+        "totalPCPSameDay": 9,
+        "totalUCNextDay": 0,
+        "totalPCPNextDay": 482,
+        "ucLocationCount": 179,
+        "pcpLocationCount": 156,
+        "ucWithAvailability": 179,
+        "pcpWithAvailability": 9
+      }
     }
   ],
-  "lastUpdated": "2026-04-18T09:08:21.384127",
+  "lastUpdated": "2026-04-19T13:31:44.056453",
   "market": "GA"
 }
