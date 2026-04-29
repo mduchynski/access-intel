@@ -467,8 +467,21 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-04-29T09:58:29.069744",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-04-29",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "11:07 AM",
+      "nextAvailableRaw": "11:07:00",
+      "minutesOut": 69,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-04-29T08:59:06.444247",
+  "lastUpdated": "2026-04-29T09:58:29.069744",
   "threshold_minutes": 50
 }
