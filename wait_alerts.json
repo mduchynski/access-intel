@@ -4419,8 +4419,73 @@
       "minutesOut": 57,
       "hoursOut": 0.9,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T10:45:09.736011",
+      "scrapeTimeDisplay": "10:45 AM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T10:45:09.736011",
+      "scrapeTimeDisplay": "10:45 AM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Dunwoody",
+      "address": "1575 Mount Vernon Road Dunwoody, GA",
+      "area": "Dunwoody",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T10:45:09.736011",
+      "scrapeTimeDisplay": "10:45 AM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Norcross",
+      "address": "6063 Peachtree Parkway Peachtree Corners, GA",
+      "area": "Norcross",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 195,
+      "hoursOut": 3.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T10:45:09.736011",
+      "scrapeTimeDisplay": "10:45 AM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "12:45 PM",
+      "nextAvailableRaw": "12:45:00",
+      "minutesOut": 120,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T10:45:09.736011",
+      "scrapeTimeDisplay": "10:45 AM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "12:15 PM",
+      "nextAvailableRaw": "12:15:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-08T10:03:06.884688",
+  "lastUpdated": "2026-05-08T10:45:09.736011",
   "threshold_minutes": 45
 }
