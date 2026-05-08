@@ -4380,8 +4380,47 @@
       "minutesOut": 152,
       "hoursOut": 2.5,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-05-08T10:03:06.884688",
+      "scrapeTimeDisplay": "10:03 AM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "11:15 AM",
+      "nextAvailableRaw": "11:15:00",
+      "minutesOut": 72,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T10:03:06.884688",
+      "scrapeTimeDisplay": "10:03 AM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Dunwoody",
+      "address": "1575 Mount Vernon Road Dunwoody, GA",
+      "area": "Dunwoody",
+      "nextAvailableTime": "11:30 AM",
+      "nextAvailableRaw": "11:30:00",
+      "minutesOut": 87,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T10:03:06.884688",
+      "scrapeTimeDisplay": "10:03 AM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "11:00 AM",
+      "nextAvailableRaw": "11:00:00",
+      "minutesOut": 57,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-08T09:41:08.430270",
+  "lastUpdated": "2026-05-08T10:03:06.884688",
   "threshold_minutes": 45
 }
