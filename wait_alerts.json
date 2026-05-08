@@ -4666,8 +4666,86 @@
       "minutesOut": 120,
       "hoursOut": 2.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T12:32:18.787176",
+      "scrapeTimeDisplay": "12:32 PM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "2:30 PM",
+      "nextAvailableRaw": "14:30:00",
+      "minutesOut": 118,
+      "hoursOut": 2.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T12:32:18.787176",
+      "scrapeTimeDisplay": "12:32 PM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 88,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T12:32:18.787176",
+      "scrapeTimeDisplay": "12:32 PM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Norcross",
+      "address": "6063 Peachtree Parkway Peachtree Corners, GA",
+      "area": "Norcross",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 88,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T12:32:18.787176",
+      "scrapeTimeDisplay": "12:32 PM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Milton",
+      "address": "13081 GA-9 Alpharetta, GA",
+      "area": "Milton",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 88,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T12:32:18.787176",
+      "scrapeTimeDisplay": "12:32 PM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "2:15 PM",
+      "nextAvailableRaw": "14:15:00",
+      "minutesOut": 103,
+      "hoursOut": 1.7,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-08T12:32:18.787176",
+      "scrapeTimeDisplay": "12:32 PM",
+      "scrapeDate": "2026-05-08",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 88,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-08T11:59:38.355735",
+  "lastUpdated": "2026-05-08T12:32:18.787176",
   "threshold_minutes": 45
 }
