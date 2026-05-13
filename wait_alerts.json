@@ -8501,8 +8501,86 @@
       "minutesOut": 87,
       "hoursOut": 1.5,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-13T14:50:46.632151",
+      "scrapeTimeDisplay": "2:50 PM",
+      "scrapeDate": "2026-05-13",
+      "locationName": "Piedmont UC \u2014 Lithonia",
+      "address": "7231 Rockbridge Road Lithonia, GA",
+      "area": "Lithonia",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-13T14:50:46.632151",
+      "scrapeTimeDisplay": "2:50 PM",
+      "scrapeDate": "2026-05-13",
+      "locationName": "Piedmont UC \u2014 Grayson",
+      "address": "2594 Loganville Hwy Lilburn, GA",
+      "area": "Grayson",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-13T14:50:46.632151",
+      "scrapeTimeDisplay": "2:50 PM",
+      "scrapeDate": "2026-05-13",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "3:45 PM",
+      "nextAvailableRaw": "15:45:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-13T14:50:46.632151",
+      "scrapeTimeDisplay": "2:50 PM",
+      "scrapeDate": "2026-05-13",
+      "locationName": "Piedmont UC \u2014 Macon Zebulon",
+      "address": "5791 Zebulon RD STE A Macon, GA",
+      "area": "Macon Zebulon",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 84,
+      "hoursOut": 1.4,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-05-13T14:50:46.632151",
+      "scrapeTimeDisplay": "2:50 PM",
+      "scrapeDate": "2026-05-13",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "4:12 PM",
+      "nextAvailableRaw": "16:12:00",
+      "minutesOut": 81,
+      "hoursOut": 1.4,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-05-13T14:50:46.632151",
+      "scrapeTimeDisplay": "2:50 PM",
+      "scrapeDate": "2026-05-13",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 174,
+      "hoursOut": 2.9,
+      "sameDaySlots": 6
     }
   ],
-  "lastUpdated": "2026-05-13T11:32:36.695823",
+  "lastUpdated": "2026-05-13T14:50:46.632151",
   "threshold_minutes": 45
 }
