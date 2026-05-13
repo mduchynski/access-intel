@@ -8579,8 +8579,34 @@
       "minutesOut": 174,
       "hoursOut": 2.9,
       "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-05-13T15:33:19.019439",
+      "scrapeTimeDisplay": "3:33 PM",
+      "scrapeDate": "2026-05-13",
+      "locationName": "Piedmont UC \u2014 Macon Zebulon",
+      "address": "5791 Zebulon RD STE A Macon, GA",
+      "area": "Macon Zebulon",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 87,
+      "hoursOut": 1.4,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-05-13T15:33:19.019439",
+      "scrapeTimeDisplay": "3:33 PM",
+      "scrapeDate": "2026-05-13",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "5:45 PM",
+      "nextAvailableRaw": "17:45:00",
+      "minutesOut": 132,
+      "hoursOut": 2.2,
+      "sameDaySlots": 6
     }
   ],
-  "lastUpdated": "2026-05-13T14:50:46.632151",
+  "lastUpdated": "2026-05-13T15:33:19.019439",
   "threshold_minutes": 45
 }
