@@ -9853,8 +9853,21 @@
       "minutesOut": 72,
       "hoursOut": 1.2,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-14T08:58:23.221062",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-05-14",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-14T08:32:38.678092",
+  "lastUpdated": "2026-05-14T08:58:23.221062",
   "threshold_minutes": 45
 }
