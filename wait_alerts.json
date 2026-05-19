@@ -16145,8 +16145,34 @@
       "minutesOut": 116,
       "hoursOut": 1.9,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-05-19T18:05:34.976627",
+      "scrapeTimeDisplay": "6:05 PM",
+      "scrapeDate": "2026-05-19",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 54,
+      "hoursOut": 0.9,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-05-19T18:05:34.976627",
+      "scrapeTimeDisplay": "6:05 PM",
+      "scrapeDate": "2026-05-19",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "7:30 PM",
+      "nextAvailableRaw": "19:30:00",
+      "minutesOut": 84,
+      "hoursOut": 1.4,
+      "sameDaySlots": 1
     }
   ],
-  "lastUpdated": "2026-05-19T17:03:35.877846",
+  "lastUpdated": "2026-05-19T18:05:34.976627",
   "threshold_minutes": 45
 }
