@@ -16015,8 +16015,73 @@
       "minutesOut": 54,
       "hoursOut": 0.9,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-19T15:05:21.101770",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-05-19",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-19T15:05:21.101770",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-05-19",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-19T15:05:21.101770",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-05-19",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 55,
+      "hoursOut": 0.9,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-05-19T15:05:21.101770",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-05-19",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "3:52 PM",
+      "nextAvailableRaw": "15:52:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-19T15:05:21.101770",
+      "scrapeTimeDisplay": "3:05 PM",
+      "scrapeDate": "2026-05-19",
+      "locationName": "Piedmont UC \u2014 Senoia",
+      "address": "7990 Wells Street, Suite 120 Senoia, GA",
+      "area": "Senoia",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 70,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-19T14:05:44.671267",
+  "lastUpdated": "2026-05-19T15:05:21.101770",
   "threshold_minutes": 45
 }
