@@ -18329,8 +18329,47 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-21T16:00:28.434976",
+      "scrapeTimeDisplay": "4:00 PM",
+      "scrapeDate": "2026-05-21",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "5:15 PM",
+      "nextAvailableRaw": "17:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-05-21T16:00:28.434976",
+      "scrapeTimeDisplay": "4:00 PM",
+      "scrapeDate": "2026-05-21",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-05-21T16:00:28.434976",
+      "scrapeTimeDisplay": "4:00 PM",
+      "scrapeDate": "2026-05-21",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 4
     }
   ],
-  "lastUpdated": "2026-05-21T15:00:23.262469",
+  "lastUpdated": "2026-05-21T16:00:28.434976",
   "threshold_minutes": 45
 }
