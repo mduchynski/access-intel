@@ -17406,8 +17406,21 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-05-21T09:00:04.555584",
+      "scrapeTimeDisplay": "9:00 AM",
+      "scrapeDate": "2026-05-21",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-21T07:59:36.958717",
+  "lastUpdated": "2026-05-21T09:00:04.555584",
   "threshold_minutes": 45
 }
