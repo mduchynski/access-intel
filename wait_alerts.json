@@ -24413,8 +24413,86 @@
       "minutesOut": 107,
       "hoursOut": 1.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-25T08:57:02.494465",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-05-25",
+      "locationName": "Piedmont UC \u2014 Dunwoody",
+      "address": "1575 Mount Vernon Road Dunwoody, GA",
+      "area": "Dunwoody",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 108,
+      "hoursOut": 1.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-25T08:57:02.494465",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-05-25",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-25T08:57:02.494465",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-05-25",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-25T08:57:02.494465",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-05-25",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-25T08:57:02.494465",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-05-25",
+      "locationName": "Piedmont UC \u2014 Locust Grove",
+      "address": "3366 Hwy 42S, Suite 100 Locust Grove, GA",
+      "area": "Locust Grove",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 183,
+      "hoursOut": 3.0,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-05-25T08:57:02.494465",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-05-25",
+      "locationName": "Piedmont UC \u2014 Cascade",
+      "address": "3752 Cascade Rd, Suite 100 Atlanta, GA",
+      "area": "Cascade",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-25T07:58:29.473983",
+  "lastUpdated": "2026-05-25T08:57:02.494465",
   "threshold_minutes": 45
 }
