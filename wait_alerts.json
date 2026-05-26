@@ -27533,8 +27533,21 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-05-26T17:58:44.857073",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-05-26",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-05-26T16:58:36.160774",
+  "lastUpdated": "2026-05-26T17:58:44.857073",
   "threshold_minutes": 45
 }
