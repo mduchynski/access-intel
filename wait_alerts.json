@@ -30302,8 +30302,86 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-28T15:00:14.653585",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-05-28",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "3:50 PM",
+      "nextAvailableRaw": "15:50:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-28T15:00:14.653585",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-05-28",
+      "locationName": "Piedmont UC \u2014 Milton",
+      "address": "13081 GA-9 Alpharetta, GA",
+      "area": "Milton",
+      "nextAvailableTime": "3:48 PM",
+      "nextAvailableRaw": "15:48:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-28T15:00:14.653585",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-05-28",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "4:30 PM",
+      "nextAvailableRaw": "16:30:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-28T15:00:14.653585",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-05-28",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-28T15:00:14.653585",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-05-28",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "4:30 PM",
+      "nextAvailableRaw": "16:30:00",
+      "minutesOut": 90,
+      "hoursOut": 1.5,
+      "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-05-28T15:00:14.653585",
+      "scrapeTimeDisplay": "3:00 PM",
+      "scrapeDate": "2026-05-28",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "4:15 PM",
+      "nextAvailableRaw": "16:15:00",
+      "minutesOut": 75,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-28T14:00:05.998644",
+  "lastUpdated": "2026-05-28T15:00:14.653585",
   "threshold_minutes": 45
 }
