@@ -30432,8 +30432,34 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-28T17:01:14.169176",
+      "scrapeTimeDisplay": "5:01 PM",
+      "scrapeDate": "2026-05-28",
+      "locationName": "Piedmont UC \u2014 Ponce De Leon",
+      "address": "882 Ponce De Leon Avenue Atlanta, GA",
+      "area": "Ponce De Leon",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-05-28T17:01:14.169176",
+      "scrapeTimeDisplay": "5:01 PM",
+      "scrapeDate": "2026-05-28",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 5
     }
   ],
-  "lastUpdated": "2026-05-28T16:00:20.238351",
+  "lastUpdated": "2026-05-28T17:01:14.169176",
   "threshold_minutes": 45
 }
