@@ -30718,8 +30718,34 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-29T11:00:11.263740",
+      "scrapeTimeDisplay": "11:00 AM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-29T11:00:11.263740",
+      "scrapeTimeDisplay": "11:00 AM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "2:00 PM",
+      "nextAvailableRaw": "14:00:00",
+      "minutesOut": 180,
+      "hoursOut": 3.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-29T09:59:58.726198",
+  "lastUpdated": "2026-05-29T11:00:11.263740",
   "threshold_minutes": 45
 }
