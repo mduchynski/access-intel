@@ -31940,8 +31940,73 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-05-29T16:56:47.237519",
+      "scrapeTimeDisplay": "4:56 PM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 7
+    },
+    {
+      "scrapeTime": "2026-05-29T16:56:47.237519",
+      "scrapeTimeDisplay": "4:56 PM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "5:48 PM",
+      "nextAvailableRaw": "17:48:00",
+      "minutesOut": 51,
+      "hoursOut": 0.9,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-05-29T16:56:47.237519",
+      "scrapeTimeDisplay": "4:56 PM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "6:24 PM",
+      "nextAvailableRaw": "18:24:00",
+      "minutesOut": 87,
+      "hoursOut": 1.5,
+      "sameDaySlots": 6
+    },
+    {
+      "scrapeTime": "2026-05-29T16:56:47.237519",
+      "scrapeTimeDisplay": "4:56 PM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 Columbus Blackmon",
+      "address": "7301 Blackmon Road Columbus, GA",
+      "area": "Columbus Blackmon",
+      "nextAvailableTime": "6:06 PM",
+      "nextAvailableRaw": "18:06:00",
+      "minutesOut": 69,
+      "hoursOut": 1.2,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-05-29T16:56:47.237519",
+      "scrapeTimeDisplay": "4:56 PM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "6:00 PM",
+      "nextAvailableRaw": "18:00:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 6
     }
   ],
-  "lastUpdated": "2026-05-29T15:56:56.448498",
+  "lastUpdated": "2026-05-29T16:56:47.237519",
   "threshold_minutes": 45
 }
