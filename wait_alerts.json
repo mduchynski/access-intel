@@ -30601,8 +30601,34 @@
       "minutesOut": 109,
       "hoursOut": 1.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-29T09:01:27.067620",
+      "scrapeTimeDisplay": "9:01 AM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 McDonough Jonesboro Road",
+      "address": "2050 Jonesboro Rd, Suite 100 30253, GA",
+      "area": "McDonough Jonesboro Road",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-29T09:01:27.067620",
+      "scrapeTimeDisplay": "9:01 AM",
+      "scrapeDate": "2026-05-29",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "10:10 AM",
+      "nextAvailableRaw": "10:10:00",
+      "minutesOut": 69,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-29T07:59:22.641817",
+  "lastUpdated": "2026-05-29T09:01:27.067620",
   "threshold_minutes": 45
 }
