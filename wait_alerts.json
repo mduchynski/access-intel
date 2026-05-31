@@ -34189,8 +34189,86 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-31T08:58:39.539619",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-05-31",
+      "locationName": "Piedmont UC \u2014 Dunwoody",
+      "address": "1575 Mount Vernon Road Dunwoody, GA",
+      "area": "Dunwoody",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-31T08:58:39.539619",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-05-31",
+      "locationName": "Piedmont UC \u2014 Lawrenceville",
+      "address": "3330 Sugarloaf Pkwy Lawrenceville, GA",
+      "area": "Lawrenceville",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-31T08:58:39.539619",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-05-31",
+      "locationName": "Piedmont UC \u2014 Watkinsville",
+      "address": "1010 Village Drive Watkinsville, GA",
+      "area": "Watkinsville",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-31T08:58:39.539619",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-05-31",
+      "locationName": "Piedmont UC \u2014 Oconee",
+      "address": "1305 Jennings Mill Road Suite 120 Watkinsville, GA",
+      "area": "Oconee",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-31T08:58:39.539619",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-05-31",
+      "locationName": "Piedmont UC \u2014 Summerhill",
+      "address": "572 Hank Aaron Drive, Suite 4200 Atlanta, GA",
+      "area": "Summerhill",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-05-31T08:58:39.539619",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-05-31",
+      "locationName": "Piedmont UC \u2014 Vinings",
+      "address": "2810 Paces Ferry Road, Suite 156 Atlanta, GA",
+      "area": "Vinings",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-05-31T07:58:56.068767",
+  "lastUpdated": "2026-05-31T08:58:39.539619",
   "threshold_minutes": 45
 }
