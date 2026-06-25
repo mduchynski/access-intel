@@ -58148,8 +58148,21 @@
       "minutesOut": 89,
       "hoursOut": 1.5,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-06-25T15:58:07.606959",
+      "scrapeTimeDisplay": "3:58 PM",
+      "scrapeDate": "2026-06-25",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-06-25T14:45:38.007578",
+  "lastUpdated": "2026-06-25T15:58:07.606959",
   "threshold_minutes": 45
 }
