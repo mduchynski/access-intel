@@ -62971,8 +62971,34 @@
       "minutesOut": 201,
       "hoursOut": 3.3,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-02T07:59:43.918587",
+      "scrapeTimeDisplay": "7:59 AM",
+      "scrapeDate": "2026-07-02",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "8:45 AM",
+      "nextAvailableRaw": "08:45:00",
+      "minutesOut": 45,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-02T07:59:43.918587",
+      "scrapeTimeDisplay": "7:59 AM",
+      "scrapeDate": "2026-07-02",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "8:48 AM",
+      "nextAvailableRaw": "08:48:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-07-02T04:49:13.285216",
+  "lastUpdated": "2026-07-02T07:59:43.918587",
   "threshold_minutes": 45
 }
