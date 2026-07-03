@@ -63491,8 +63491,73 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-03T08:16:29.394268",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-07-03",
+      "locationName": "Piedmont UC \u2014 Clairmont",
+      "address": "2700 Clairmont Road Atlanta, GA",
+      "area": "Clairmont",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 89,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-03T08:16:29.394268",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-07-03",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-03T08:16:29.394268",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-07-03",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-03T09:00:23.737436",
+      "scrapeTimeDisplay": "9:00 AM",
+      "scrapeDate": "2026-07-03",
+      "locationName": "Piedmont UC \u2014 Cumming",
+      "address": "880 Buford HWY Cumming, GA",
+      "area": "Cumming",
+      "nextAvailableTime": "9:48 AM",
+      "nextAvailableRaw": "09:48:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-03T09:00:23.737436",
+      "scrapeTimeDisplay": "9:00 AM",
+      "scrapeDate": "2026-07-03",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-03T08:00:17.710679",
+  "lastUpdated": "2026-07-03T09:00:23.737436",
   "threshold_minutes": 45
 }
