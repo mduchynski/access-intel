@@ -64687,8 +64687,34 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T10:16:29.343764",
+      "scrapeTimeDisplay": "10:16 AM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "11:22 AM",
+      "nextAvailableRaw": "11:22:00",
+      "minutesOut": 66,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-05T10:58:31.334804",
+      "scrapeTimeDisplay": "10:58 AM",
+      "scrapeDate": "2026-07-05",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "11:45 AM",
+      "nextAvailableRaw": "11:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-05T09:58:29.714124",
+  "lastUpdated": "2026-07-05T10:58:31.334804",
   "threshold_minutes": 45
 }
