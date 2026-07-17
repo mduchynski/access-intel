@@ -65480,8 +65480,86 @@
       "minutesOut": 61,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-17T13:38:43.689852",
+      "scrapeTimeDisplay": "1:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 81,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-17T13:38:43.689852",
+      "scrapeTimeDisplay": "1:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "3:15 PM",
+      "nextAvailableRaw": "15:15:00",
+      "minutesOut": 96,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-17T13:38:43.689852",
+      "scrapeTimeDisplay": "1:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Woodstock",
+      "address": "285 Ridgewalk Parkway Woodstock, GA",
+      "area": "Woodstock",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 81,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-17T13:38:43.689852",
+      "scrapeTimeDisplay": "1:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "3:00 PM",
+      "nextAvailableRaw": "15:00:00",
+      "minutesOut": 81,
+      "hoursOut": 1.4,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-17T13:38:43.689852",
+      "scrapeTimeDisplay": "1:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Columbus - Peachtree Mall",
+      "address": "3471 Courtyard Way Columbus, GA",
+      "area": "Columbus - Peachtree Mall",
+      "nextAvailableTime": "2:30 PM",
+      "nextAvailableRaw": "14:30:00",
+      "minutesOut": 51,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-17T13:38:43.689852",
+      "scrapeTimeDisplay": "1:38 PM",
+      "scrapeDate": "2026-07-17",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "2:45 PM",
+      "nextAvailableRaw": "14:45:00",
+      "minutesOut": 66,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-17T12:58:59.351240",
+  "lastUpdated": "2026-07-17T13:38:43.689852",
   "threshold_minutes": 45
 }
