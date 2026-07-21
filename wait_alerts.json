@@ -67703,8 +67703,60 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-21T08:16:27.992580",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-21T08:59:05.136923",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-21T08:59:05.136923",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-07-21T08:59:05.136923",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-07-21",
+      "locationName": "Piedmont UC \u2014 Jefferson",
+      "address": "528 Panther Drive Jefferson, GA",
+      "area": "Jefferson",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-21T07:57:57.800284",
+  "lastUpdated": "2026-07-21T08:59:05.136923",
   "threshold_minutes": 45
 }
