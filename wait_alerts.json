@@ -69471,8 +69471,34 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-07-25T08:00:13.169024",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-07-25",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 60,
+      "hoursOut": 1.0,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-07-25T08:00:13.169024",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-07-25",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "8:48 AM",
+      "nextAvailableRaw": "08:48:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-07-24T19:59:26.609381",
+  "lastUpdated": "2026-07-25T08:00:13.169024",
   "threshold_minutes": 45
 }
