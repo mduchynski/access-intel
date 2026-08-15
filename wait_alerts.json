@@ -82627,8 +82627,21 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-15T08:16:37.483676",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-08-15",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-14T19:56:33.012263",
+  "lastUpdated": "2026-08-15T08:16:37.483676",
   "threshold_minutes": 45
 }
