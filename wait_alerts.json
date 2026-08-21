@@ -88607,8 +88607,21 @@
       "minutesOut": 71,
       "hoursOut": 1.2,
       "sameDaySlots": 8
+    },
+    {
+      "scrapeTime": "2026-08-21T17:03:21.472366",
+      "scrapeTimeDisplay": "5:03 PM",
+      "scrapeDate": "2026-08-21",
+      "locationName": "Piedmont UC \u2014 East Point",
+      "address": "3515 Camp Creek Parkway East Point, GA",
+      "area": "East Point",
+      "nextAvailableTime": "5:50 PM",
+      "nextAvailableRaw": "17:50:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 3
     }
   ],
-  "lastUpdated": "2026-08-21T16:03:52.072315",
+  "lastUpdated": "2026-08-21T17:03:21.472366",
   "threshold_minutes": 45
 }
