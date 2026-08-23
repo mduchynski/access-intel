@@ -90141,8 +90141,21 @@
       "minutesOut": 60,
       "hoursOut": 1.0,
       "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-23T08:59:16.003832",
+      "scrapeTimeDisplay": "8:59 AM",
+      "scrapeDate": "2026-08-23",
+      "locationName": "Piedmont UC \u2014 Newnan Arbor Springs",
+      "address": "35 Arbor Springs Terrace Newnan, GA",
+      "area": "Newnan Arbor Springs",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-23T08:15:41.975674",
+  "lastUpdated": "2026-08-23T08:59:16.003832",
   "threshold_minutes": 45
 }
