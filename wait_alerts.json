@@ -99670,8 +99670,47 @@
       "minutesOut": 46,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-08-30T17:58:59.701453",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-30",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "6:45 PM",
+      "nextAvailableRaw": "18:45:00",
+      "minutesOut": 46,
+      "hoursOut": 0.8,
+      "sameDaySlots": 2
+    },
+    {
+      "scrapeTime": "2026-08-30T17:58:59.701453",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-30",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "7:30 PM",
+      "nextAvailableRaw": "19:30:00",
+      "minutesOut": 91,
+      "hoursOut": 1.5,
+      "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-08-30T17:58:59.701453",
+      "scrapeTimeDisplay": "5:58 PM",
+      "scrapeDate": "2026-08-30",
+      "locationName": "Piedmont UC \u2014 Decatur",
+      "address": "2520 N Decatur Rd, Decatur Decatur, GA",
+      "area": "Decatur",
+      "nextAvailableTime": "7:00 PM",
+      "nextAvailableRaw": "19:00:00",
+      "minutesOut": 61,
+      "hoursOut": 1.0,
+      "sameDaySlots": 2
     }
   ],
-  "lastUpdated": "2026-08-30T16:58:57.243527",
+  "lastUpdated": "2026-08-30T17:58:59.701453",
   "threshold_minutes": 45
 }
