@@ -98799,8 +98799,34 @@
       "minutesOut": 130,
       "hoursOut": 2.2,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-08-30T08:00:59.388202",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-08-30",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "8:50 AM",
+      "nextAvailableRaw": "08:50:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-08-30T08:00:59.388202",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-08-30",
+      "locationName": "Piedmont UC \u2014 Dacula - Harbins Road",
+      "address": "862 Harbins Rd SE, Suite 101 Dacula, GA",
+      "area": "Dacula - Harbins Road",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-08-30T06:00:28.617183",
+  "lastUpdated": "2026-08-30T08:00:59.388202",
   "threshold_minutes": 45
 }
