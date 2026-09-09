@@ -102725,8 +102725,73 @@
       "minutesOut": 57,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-09T15:11:06.248057",
+      "scrapeTimeDisplay": "3:11 PM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Piedmont UC \u2014 Buckhead South",
+      "address": "2292 Peachtree Road Atlanta, GA",
+      "area": "Buckhead South",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 94,
+      "hoursOut": 1.6,
+      "sameDaySlots": 4
+    },
+    {
+      "scrapeTime": "2026-09-09T15:11:06.248057",
+      "scrapeTimeDisplay": "3:11 PM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Piedmont UC \u2014 Tucker",
+      "address": "4650 Hugh Howell, Suite 510 Tucker, GA",
+      "area": "Tucker",
+      "nextAvailableTime": "4:45 PM",
+      "nextAvailableRaw": "16:45:00",
+      "minutesOut": 94,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-09T15:11:06.248057",
+      "scrapeTimeDisplay": "3:11 PM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Piedmont UC \u2014 Macon Zebulon",
+      "address": "5791 Zebulon RD STE A Macon, GA",
+      "area": "Macon Zebulon",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-09T15:11:06.248057",
+      "scrapeTimeDisplay": "3:11 PM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Piedmont UC \u2014 Kennesaw Bells Ferry",
+      "address": "4282 Bells Ferry Road NW Kennesaw, GA",
+      "area": "Kennesaw Bells Ferry",
+      "nextAvailableTime": "5:00 PM",
+      "nextAvailableRaw": "17:00:00",
+      "minutesOut": 109,
+      "hoursOut": 1.8,
+      "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-09T15:11:06.248057",
+      "scrapeTimeDisplay": "3:11 PM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Piedmont UC \u2014 Monroe",
+      "address": "850 Pavillion Parkway 30656, GA",
+      "area": "Monroe",
+      "nextAvailableTime": "4:00 PM",
+      "nextAvailableRaw": "16:00:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-09T14:32:53.092254",
+  "lastUpdated": "2026-09-09T15:11:06.248057",
   "threshold_minutes": 45
 }
