@@ -102244,8 +102244,34 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-09T11:10:42.358964",
+      "scrapeTimeDisplay": "11:10 AM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Piedmont UC \u2014 Loganville",
+      "address": "4763 Atlanta Highway Loganville, GA",
+      "area": "Loganville",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-09T11:10:42.358964",
+      "scrapeTimeDisplay": "11:10 AM",
+      "scrapeDate": "2026-09-09",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "12:15 PM",
+      "nextAvailableRaw": "12:15:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-09T10:57:05.415893",
+  "lastUpdated": "2026-09-09T11:10:42.358964",
   "threshold_minutes": 45
 }
