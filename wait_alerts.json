@@ -106807,8 +106807,86 @@
       "minutesOut": 91,
       "hoursOut": 1.5,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T08:16:30.615423",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Ponce De Leon",
+      "address": "882 Ponce De Leon Avenue Atlanta, GA",
+      "area": "Ponce De Leon",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T08:16:30.615423",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Dallas",
+      "address": "500 Nathan Dean Blvd Dallas, GA",
+      "area": "Dallas",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 50,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T08:16:30.615423",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Smyrna",
+      "address": "1155 Concord Rd SE Smyrna, GA",
+      "area": "Smyrna",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T08:16:30.615423",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "9:24 AM",
+      "nextAvailableRaw": "09:24:00",
+      "minutesOut": 67,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T09:01:21.987460",
+      "scrapeTimeDisplay": "9:01 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 West Cobb",
+      "address": "2505 Dallas Hwy Marietta, GA",
+      "area": "West Cobb",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 59,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-14T09:01:21.987460",
+      "scrapeTimeDisplay": "9:01 AM",
+      "scrapeDate": "2026-09-14",
+      "locationName": "Piedmont UC \u2014 Sandy Springs Village",
+      "address": "6660 Roswell Road Sandy Springs, GA",
+      "area": "Sandy Springs Village",
+      "nextAvailableTime": "10:36 AM",
+      "nextAvailableRaw": "10:36:00",
+      "minutesOut": 95,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-14T07:59:12.255933",
+  "lastUpdated": "2026-09-14T09:01:21.987460",
   "threshold_minutes": 45
 }
