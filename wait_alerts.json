@@ -107639,8 +107639,21 @@
       "minutesOut": 63,
       "hoursOut": 1.1,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-17T12:09:46.787554",
+      "scrapeTimeDisplay": "12:09 PM",
+      "scrapeDate": "2026-09-17",
+      "locationName": "Piedmont UC \u2014 Canton",
+      "address": "2026 Cumming Hwy, Suite 100 Canton, GA",
+      "area": "Canton",
+      "nextAvailableTime": "1:15 PM",
+      "nextAvailableRaw": "13:15:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-17T11:11:36.348270",
+  "lastUpdated": "2026-09-17T12:09:46.787554",
   "threshold_minutes": 45
 }
