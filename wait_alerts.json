@@ -114191,8 +114191,47 @@
       "minutesOut": 62,
       "hoursOut": 1.0,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-28T08:16:31.570600",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-28T08:16:31.570600",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 73,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-28T08:58:40.663083",
+      "scrapeTimeDisplay": "8:58 AM",
+      "scrapeDate": "2026-09-28",
+      "locationName": "Piedmont UC \u2014 Milledgeville",
+      "address": "1909 N Columbia St Milledgeville, GA",
+      "area": "Milledgeville",
+      "nextAvailableTime": "10:30 AM",
+      "nextAvailableRaw": "10:30:00",
+      "minutesOut": 91,
+      "hoursOut": 1.5,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-28T07:57:53.614493",
+  "lastUpdated": "2026-09-28T08:58:40.663083",
   "threshold_minutes": 45
 }
