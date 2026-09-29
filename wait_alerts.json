@@ -115283,8 +115283,60 @@
       "minutesOut": 47,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T09:16:40.543836",
+      "scrapeTimeDisplay": "9:16 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Newnan Crossing",
+      "address": "2084 Newnan Crossing Blvd 30265 Newnan, GA",
+      "area": "Newnan Crossing",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T09:58:20.678776",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T09:58:20.678776",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "10:45 AM",
+      "nextAvailableRaw": "10:45:00",
+      "minutesOut": 47,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-29T09:58:20.678776",
+      "scrapeTimeDisplay": "9:58 AM",
+      "scrapeDate": "2026-09-29",
+      "locationName": "Piedmont UC \u2014 Buford",
+      "address": "2925 Buford Drive, Building 1110 Buford, GA",
+      "area": "Buford",
+      "nextAvailableTime": "11:12 AM",
+      "nextAvailableRaw": "11:12:00",
+      "minutesOut": 74,
+      "hoursOut": 1.2,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-29T08:57:34.090207",
+  "lastUpdated": "2026-09-29T09:58:20.678776",
   "threshold_minutes": 45
 }
