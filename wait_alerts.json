@@ -118507,8 +118507,60 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T08:16:33.769164",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T08:16:33.769164",
+      "scrapeTimeDisplay": "8:16 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "9:20 AM",
+      "nextAvailableRaw": "09:20:00",
+      "minutesOut": 63,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T08:57:22.294050",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Woodstock",
+      "address": "285 Ridgewalk Parkway Woodstock, GA",
+      "area": "Woodstock",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T08:57:22.294050",
+      "scrapeTimeDisplay": "8:57 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Covington",
+      "address": "5239 Highway 278 Covington, GA",
+      "area": "Covington",
+      "nextAvailableTime": "9:45 AM",
+      "nextAvailableRaw": "09:45:00",
+      "minutesOut": 48,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-30T08:00:45.729842",
+  "lastUpdated": "2026-09-30T08:57:22.294050",
   "threshold_minutes": 45
 }
