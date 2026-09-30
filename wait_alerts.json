@@ -118481,8 +118481,34 @@
       "minutesOut": 121,
       "hoursOut": 2.0,
       "sameDaySlots": 9
+    },
+    {
+      "scrapeTime": "2026-09-30T08:00:45.729842",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Athens",
+      "address": "485 Highway 29 North Athens, GA",
+      "area": "Athens",
+      "nextAvailableTime": "8:50 AM",
+      "nextAvailableRaw": "08:50:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-09-30T08:00:45.729842",
+      "scrapeTimeDisplay": "8:00 AM",
+      "scrapeDate": "2026-09-30",
+      "locationName": "Piedmont UC \u2014 Hiram",
+      "address": "5749 Wendy Bagwell Parkway Hiram, GA",
+      "area": "Hiram",
+      "nextAvailableTime": "8:50 AM",
+      "nextAvailableRaw": "08:50:00",
+      "minutesOut": 49,
+      "hoursOut": 0.8,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-09-30T06:09:20.377020",
+  "lastUpdated": "2026-09-30T08:00:45.729842",
   "threshold_minutes": 45
 }
