@@ -124916,8 +124916,21 @@
       "minutesOut": 49,
       "hoursOut": 0.8,
       "sameDaySlots": 3
+    },
+    {
+      "scrapeTime": "2026-10-09T07:56:09.086734",
+      "scrapeTimeDisplay": "7:56 AM",
+      "scrapeDate": "2026-10-09",
+      "locationName": "Piedmont UC \u2014 Braselton",
+      "address": "3711 Village Way; Suite A Braselton, GA",
+      "area": "Braselton",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 64,
+      "hoursOut": 1.1,
+      "sameDaySlots": 9
     }
   ],
-  "lastUpdated": "2026-10-08T19:55:35.132460",
+  "lastUpdated": "2026-10-09T07:56:09.086734",
   "threshold_minutes": 45
 }
