@@ -128556,8 +128556,34 @@
       "minutesOut": 50,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-14T09:17:05.763816",
+      "scrapeTimeDisplay": "9:17 AM",
+      "scrapeDate": "2026-10-14",
+      "locationName": "Piedmont UC \u2014 Peachtree City",
+      "address": "100 Line Creek Drive Peachtree, GA",
+      "area": "Peachtree City",
+      "nextAvailableTime": "10:15 AM",
+      "nextAvailableRaw": "10:15:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-14T10:08:42.105134",
+      "scrapeTimeDisplay": "10:08 AM",
+      "scrapeDate": "2026-10-14",
+      "locationName": "Piedmont UC \u2014 Lilburn",
+      "address": "976 Killian Hill Road SW Lilburn, GA",
+      "area": "Lilburn",
+      "nextAvailableTime": "12:00 PM",
+      "nextAvailableRaw": "12:00:00",
+      "minutesOut": 111,
+      "hoursOut": 1.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-13T15:55:21.524638",
+  "lastUpdated": "2026-10-14T10:08:42.105134",
   "threshold_minutes": 45
 }
