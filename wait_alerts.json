@@ -138670,8 +138670,47 @@
       "minutesOut": 48,
       "hoursOut": 0.8,
       "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-26T08:22:54.880775",
+      "scrapeTimeDisplay": "8:22 AM",
+      "scrapeDate": "2026-10-26",
+      "locationName": "Piedmont UC \u2014 Carrollton",
+      "address": "909 S Park St. Carrolton, GA",
+      "area": "Carrollton",
+      "nextAvailableTime": "9:30 AM",
+      "nextAvailableRaw": "09:30:00",
+      "minutesOut": 67,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-26T08:22:54.880775",
+      "scrapeTimeDisplay": "8:22 AM",
+      "scrapeDate": "2026-10-26",
+      "locationName": "Piedmont UC \u2014 Buckhead North",
+      "address": "3617 Roswell Road Atlanta, GA",
+      "area": "Buckhead North",
+      "nextAvailableTime": "10:00 AM",
+      "nextAvailableRaw": "10:00:00",
+      "minutesOut": 97,
+      "hoursOut": 1.6,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-26T08:22:54.880775",
+      "scrapeTimeDisplay": "8:22 AM",
+      "scrapeDate": "2026-10-26",
+      "locationName": "Piedmont UC \u2014 Columbus Uptown",
+      "address": "101 13th Street Suite 200 Columbus, GA",
+      "area": "Columbus Uptown",
+      "nextAvailableTime": "9:15 AM",
+      "nextAvailableRaw": "09:15:00",
+      "minutesOut": 52,
+      "hoursOut": 0.9,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-26T08:02:11.922564",
+  "lastUpdated": "2026-10-26T09:58:37.188374",
   "threshold_minutes": 45
 }
