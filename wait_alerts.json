@@ -139749,8 +139749,34 @@
       "minutesOut": 93,
       "hoursOut": 1.6,
       "sameDaySlots": 1
+    },
+    {
+      "scrapeTime": "2026-10-27T08:02:23.050346",
+      "scrapeTimeDisplay": "8:02 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Snellville-Centerville Hwy",
+      "address": "3641 Centerville Hwy Snellville, GA",
+      "area": "Snellville-Centerville Hwy",
+      "nextAvailableTime": "9:00 AM",
+      "nextAvailableRaw": "09:00:00",
+      "minutesOut": 58,
+      "hoursOut": 1.0,
+      "sameDaySlots": 10
+    },
+    {
+      "scrapeTime": "2026-10-27T08:02:23.050346",
+      "scrapeTimeDisplay": "8:02 AM",
+      "scrapeDate": "2026-10-27",
+      "locationName": "Piedmont UC \u2014 Senoia",
+      "address": "7990 Wells Street, Suite 120 Senoia, GA",
+      "area": "Senoia",
+      "nextAvailableTime": "9:07 AM",
+      "nextAvailableRaw": "09:07:00",
+      "minutesOut": 65,
+      "hoursOut": 1.1,
+      "sameDaySlots": 10
     }
   ],
-  "lastUpdated": "2026-10-26T19:57:06.277112",
+  "lastUpdated": "2026-10-27T08:02:23.050346",
   "threshold_minutes": 45
 }
